@@ -6,7 +6,7 @@ You're working at a travel agency, and your manager just handed you a list of th
 ## Your Task
 Create a React application that displays these travel destinations.
 
-## The Data
+## The Data 
 Use this exact destination data in your parent component:
 ```javascript
 const destinations = [
